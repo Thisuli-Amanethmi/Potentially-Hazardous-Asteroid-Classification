@@ -14,6 +14,9 @@ XAI Audit: Global interpretability with SHAP to validate the 0.05 AU MOID thresh
 
 ## 📊 Performance Summary - Stacking Ensemble Model
 Accuracy: 99.6%
+
 Recall (Sensitivity): 95.1%
+
 F1-Score: 0.968
+
 ROC-AUC: 0.999
